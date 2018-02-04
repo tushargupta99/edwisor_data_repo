@@ -1,0 +1,779 @@
+{
+	"root_AmazonDataStore_Object":{
+		"Customer_data":[{
+			"profile_details":{
+				"customer_id":"0000-1004-5785-6945",
+				"name":"Rajesh Kumar",
+				"date of birth":728584808000,
+				"gender":"Male",
+				"address":"Sreet No.2,Near Post Office, Saharanpur",
+				"pincode":247001,
+				"landmark":"Ambedkar Stadium",
+				"phone_number":[
+					9890997777,
+					9895454585,
+					9760121252
+				],
+				"email_id":"rajesh123@gmail.com",
+				"recovery email_id":"rajesh.kumar@gmail.com"
+			},
+			"authentication_details":{
+			 	"username":"rajesh123",
+			 	"password":"some encrypted password"
+			},
+			"account_details":{
+				"prime_membership":true,
+				"saved cards":[
+					{
+						"card no.":"2154-7584-8754-4284",
+						"card holder name":"Rajesh Kumar",
+						"expiry date":"09/23"
+					},{
+						"card no.":"9548-7632-8754-47458",
+						"card holder name":"Rajesh Kumar",
+						"expiry date":"05/25"
+					},{
+						"card no.":"8007-7587-9544-4452",
+						"card holder name":"Rajesh Kumar",
+						"expiry date":"01/20"
+					}
+				],
+				"cart_details":{
+					"ready to buy":[{
+						"product_id":"#0000158797555"
+					},{
+						"product_id":"#0000156195485"
+					},{
+						"product_id":"#0000158794581"
+					}],
+					"saved for later":[{
+						"product_id":"#0000158797555"
+					},{
+						"product_id":"#0000156195485"
+					},{
+						"product_id":"#0000158794581"
+					}]
+				},
+                "orders":{
+					"paid":[{
+						"product_id":"#0000158795455"
+					},{
+						"product_id":"#0000158795485"
+					},{
+						"product_id":"#0000158795881"
+					}],
+					"unpaid":[{
+						"product_id":"#0000158755474"
+					},{
+						"product_id":"#0000158755585"
+					},{
+						"product_id":"#0000158795842"
+					}]
+				},
+				"collections & wishlist":[{
+					"product_id":"#0000158755474"
+				},{
+					"product_id":"#0000158785554"
+				},{
+					"product_id":"#0000158795846"
+				},{
+					"product_id":"#0000158757468"
+				},{
+					"product_id":"#0000158755468"
+				},{
+					"product_id":"#0000158795823"
+				},{
+					"product_id":"#0000158755794"
+				},{
+					"product_id":"#0000158755745"
+				}],	
+				"shipment_details":{
+					"delivery_address_1":"some delivery address",
+					"delivery_address_2":"some delivery address",
+					"delivery_address_3":"some delivery address"
+				},
+				"likes":[{
+					"product_id":"#0000158755484"
+				},{
+					"product_id":"#0000158784284"
+				}],
+				"recently viewed items":[{
+					"product_id":"#0000158755445"
+				},{
+					"product_id":"#0000158795862"
+				},{
+					"product_id":"#0000158755777"
+				},{
+					"product_id":"#0000158755710"
+				}]
+			}//account_details ends
+		},//first customer object ends
+		{
+			"profile_details":{
+				"customer_id":"0000-1004-5785-6945",
+				"name":"Soniya Sharma",
+				"date of birth":728574803000,
+				"gender":"Female",
+				"address":"126/127, New Satguru Nanak Ind Est, Western Express Highway, Goregaon(East)",
+				"pincode":400063,
+				"landmark":"Red Post Office",
+				"phone_number":[
+					2228748720,
+					9895454585,
+					9887625252
+				],
+				"email_id":"soniya1@gmail.com",
+				"recovery email_id":"soniya.sharma@gmail.com"
+			},
+			 "authentication_details":{
+			 	"username":"soniya789",
+			 	"password":"some other encrypted password"
+			 },
+			"account_details":{
+				"prime_membership":false,
+				"saved cards":[
+					{
+						"card no.":"2154-7584-8754-4284",
+						"card holder name":"Soniya Sharma",
+						"expiry date":"09/23"
+					},{
+						"card no.":"9548-7632-8754-47458",
+						"card holder name":"Soniya Sharma",
+						"expiry date":"05/25"
+					},{
+						"card no.":"8007-7587-9544-4452",
+						"card holder name":"Soniya Sharma",
+						"expiry date":"01/20"
+					}
+				],
+				"cart_details":{
+					"ready to buy":[{
+						"product_id":"#0000158797555"
+					},{
+						"product_id":"#0000156195485"
+					},{
+						"product_id":"#0000158794581"
+					}],
+					"saved for later":[{
+						"product_id":"#0000158797555"
+					},{
+						"product_id":"#0000156195485"
+					},{
+						"product_id":"#0000158794581"
+					}]
+				},
+                "orders":{
+					"paid":[{
+						"product_id":"#0000158795455"
+					},{
+						"product_id":"#0000158795485"
+					},{
+						"product_id":"#0000158795881"
+					}],
+					"unpaid":[{
+						"product_id":"#0000158755474"
+					},{
+						"product_id":"#0000158755585"
+					},{
+						"product_id":"#0000158795842"
+					}]
+				},
+				"collections & wishlist":[{
+					"product_id":"#0000158755474"
+				},{
+					"product_id":"#0000158785554"
+				},{
+					"product_id":"#0000158795846"
+				},{
+					"product_id":"#0000158757468"
+				},{
+					"product_id":"#0000158755468"
+				},{
+					"product_id":"#0000158795823"
+				},{
+					"product_id":"#0000158755794"
+				},{
+					"product_id":"#0000158755745"
+				}],	
+				"shipment_details":{
+					"delivery_address_1":"some delivery address",
+					"delivery_address_2":"some delivery address",
+					"delivery_address_3":"some delivery address"
+
+				},
+				"likes":[{
+					"product_id":"#0000158755484"
+				},{
+					"product_id":"#0000158784284"
+				}],
+				"recently viewed items":[{
+					"product_id":"#0000158755445"
+				},{
+					"product_id":"#0000158795862"
+				},{
+					"product_id":"#0000158755777"
+				},{
+					"product_id":"#0000158755710"
+				}]
+			}//account_details ends
+		},//second customer object ends
+		{
+			"profile_details":{
+			"customer_id":"0080-8006-5852-6945",
+			"name":"Amit Mishra",
+			"date of birth":728584807000,
+			"gender":"Male",
+			"address":"453/457, Chikal Hse, Princess Street, Mumbai",
+			"pincode":400002,
+			"landmark":"Gvernment Hospital",
+			"phone_number":[
+				9890999977,
+				9895458585,
+				9760125252
+			],
+			"email_id":"amit mishra12@gmail.com",
+			"recovery email_id":"amit.mishra@hotmail.com"
+		
+		 },
+		 "authentication_details":{
+		 	"username":"amit99",
+		 	"password":"some highly encrypted password"
+		 },
+		"account_details":{
+			"prime_membership":false,
+			"saved cards":[
+				{
+					"card no.":"2154-7584-8754-4754",
+					"card holder name":"Amit mishra12",
+					"expiry date":"09/23"
+				},{
+					"card no.":"9548-7632-8754-47458",
+					"card holder name":"Amit Mishra",
+					"expiry date":"05/25"
+				},{
+					"card no.":"8007-7587-9544-4452",
+					"card holder name":"Amit Mishra",
+					"expiry date":"01/20"
+				}
+			],
+			"cart_details":{
+				"ready to buy":{
+					"product_id":"#0000158797555",
+					"product_id":"#0000156195485",
+					"product_id":"#0000158794581"
+				},
+				"saved for later":{
+					"product_id":"#0000158797555",
+					"product_id":"#0000156195485",
+					"product_id":"#0000158794581"
+				}
+			},
+            "orders":{
+				"paid":[{
+					"product_id":"#0000158795455"
+				},{
+					"product_id":"#0000158795485"
+				},{
+					"product_id":"#0000158795881"
+				}],
+				"unpaid":[{
+					"product_id":"#0000158755474"
+				},{
+					"product_id":"#0000158755585"
+				},{
+					"product_id":"#0000158795842"
+				}]
+			},
+			"collections & wishlist":[{
+				"product_id":"#0000158755474"
+			},{
+				"product_id":"#0000158785554"
+			},{
+				"product_id":"#0000158795846"
+			},{
+				"product_id":"#0000158757468"
+			},{
+				"product_id":"#0000158755468"
+			},{
+				"product_id":"#0000158795823"
+			},{
+				"product_id":"#0000158755794"
+			},{
+				"product_id":"#0000158755745"
+			}],	
+			"shipment_details":{
+				"delivery_address_1":"some delivery address",
+				"delivery_address_2":"some delivery address",
+				"delivery_address_3":"some delivery address"
+
+			},
+			"likes":[{
+				"product_id":"#0000158755484"
+			},{
+				"product_id":"#0000158784284"
+			}],
+			"recently viewed items":[{
+				"product_id":"#0000158755445"
+			},{
+				"product_id":"#0000158795862"
+			},{
+				"product_id":"#0000158755777"
+			},{
+				"product_id":"#0000158755710"
+			}]
+		}//account_details ends
+		}//third customer object ends
+		],//Customer array of Object ends
+        "product_data":{
+			"Mobiles & Computers":{
+				"Mobiles":[{
+					"Brand":"Samsung",
+					"product_id":"#0000158755777",
+					"Model Number":12300,
+					"Storage Capacity":"some details",
+					"Other Features":"details goes here"
+					//details about mobile[0] will be stored here in such key value pairs 
+				},{
+					"Brand":"MI",
+					"Model Number":9858,
+					"product_id":"#0000158755777",
+					"Storage Capacity":"some details",
+					"Other Features":"details goes here"
+					//details of mobile[1] goes here
+				}],//end of Mobiles array
+
+				"Accessories":{
+					"Power Banks":[{
+						//Power Banks[0] DETAILS stored here as key value pairs
+					},{
+						//Power Banks[1] DETAILS stored here as key value pairs
+
+					},{
+						//Power Banks[2] DETAILS stored here as key value pairs
+					
+					}],
+					"Mobile Cases":[{
+				    "Color":"Black",
+					"Brand":"One plus Five",
+					"product_id":"#00001587557737",
+					"Model Number":12300,
+					"Product Dimensions":"some details",
+					"Other Features":"details goes here"
+					    //Mobile cases[0] DETAILS stored here as key value pairs
+					},{
+						//Mobile cases[1] DETAILS stored here as key value pairs
+					}],
+					"Data Cables":[{},{},{}],
+					"Headphones & earphones":[{},{},{}],
+					"Screen Protectors":[{},{},{}]
+
+					},//Accessories object ends 
+				"Laptops":[{
+					//Laptops[0] DETAILS stored here as key value pairs
+				},{
+					//Laptops[1] DETAILS stored here as key value pairs
+				}],
+				"Pen Drives & Storage":[{
+					//Pen Drives & Storage[0] DETAILS stored here as key value pairs
+				},{
+					//Pen Drives & Storage[1] DETAILS stored here as key value pairs
+				}]
+			},//Mobile and Accesories object ends
+			"T.V,Appliances & Electronics":{
+				"Televisions":[{
+					//Televisions[0] DETAILS stored here as key value pairs
+				},{
+					//Television[1] DETAILS stored here as key value pairs
+				}],
+				"Large Appliances":[{
+					//Large Appliances[0] DETAILS stored here as key value pairs
+				},{
+					//Large Appliances[1] DETAILS stored here as key value pairs
+				}],
+				"Kitchen Electronic Appliances":[{
+					//Kitchen Electronic Appliances[0] DETAILS stored here as key value pairs
+				},{
+					//Kitchen Electronic Appliances[0] DETAILS stored here as key value pairs
+				}],
+				"Home Entertainment Systems":[{
+					//Kitchen Electronic Appliances[0] DETAILS stored here as key value pairs
+
+				},{
+					//Kitchen Electronic Appliances[1] DETAILS stored here as key value pairs
+				},{
+					//Kitchen Electronic Appliances[2] DETAILS stored here as key value pairs
+				}],
+				"Heating & Cooling Appliances":[{
+					//Kitchen Electronic Appliances[1] DETAILS stored here as key value pairs
+
+				},{
+					//Kitchen Electronic Appliances[1] DETAILS stored here as key value pairs
+				}]
+			},  // T.V,Appliances & Electronics object ends
+			"Men's Fashion":{
+				"Clothing":{
+					"Top Wear":[{
+					    "T-shirts":[{
+					    	//details of first t-shirt object
+					    },{
+					    	//details of second t-shirt object
+					    },{}]
+					},{
+						"Formal Shirts":[{},{},{}]
+					},{
+						"Casual Shirts":[{},{},{}]
+					},{
+						"Kurtas":[{},{},{}]
+					}
+					],// Top Wear array of object ends,
+					"Bottom Wear":[{
+					    "Jeans":[{},{},{}]
+					},{
+						"Formal Trousers":[{},{},{}]
+					},{
+						"Casual Trousers":[{},{},{}]
+					},{
+						"Shorts":[{},{},{}]
+					}
+					],// Bottom Wear array of object ends,
+				   "Sports & Active Wear":[{
+					    "Sports T-shirts":[{},{},{}] 
+					},{
+						"Sports Shorts":[{},{},{}]
+					},{
+						"Track Pants":[{},{},{}]
+					},{
+						"Track Jackets":[{},{},{}]
+					}
+					],// Sports & Active Wear array of object ends,
+					"Innerwear & SleepWear":[{
+					    "Briefs":[{},{},{}]  
+					},{
+						"Boxers":[{},{},{}]
+					},{
+						"Trunks":[{},{},{}]
+					},{
+						"Vests":[{},{},{}]
+					}
+				    
+					],// Innerwear & SleepWear array of Object ends,
+					"Accessories& Fabrics":[{
+					    "Belts":[{},{},{}]  
+					},{
+						"Socks":[{},{},{}]
+					},{
+						"Hankerchiefs":[{},{},{}]
+					},{
+						"Caps":[{},{},{}]
+					}
+					]// Accessories& Fabrics array of object ends,
+				},//Clothing object ends
+				"Shoes":{
+					"Casual Shoes":[{
+						"Sneakers":[{},{},{}]
+					},{
+						"Loafers":[{},{},{}]
+					},{
+						"Boat Shoes":[{},{},{}]
+					},{
+						"Espadrille Flats":[{},{},{}]
+					}
+					],//Casual Shoes array of object ends
+					"Sports Shoes":[{
+						"Running Shoes":[{},{},{}]
+					},{
+						"Football Shoes":[{},{},{}]
+					},{
+						"Training Shoes":[{},{},{}]
+					},{
+						"Cricket Shoes":[{},{},{}]
+					}],//Sports Shoes object ends
+					"Formal Shoes":[{
+						"Derby":[{},{},{}]
+					},{	
+						"Oxford":[{},{},{}]
+					},{	
+						"Slip-on":[{},{},{}]
+					},{	
+						"Shop All":[{},{},{}]
+					}],//Formal Shoes object ends
+					"Sandals & Flip-Flops":[{
+						"Sandals & Floaters":[{},{},{}]
+					},{	
+						"Flip-Flops":[{},{},{}]
+					},{	
+						"Thong Sandals":[{},{},{}]
+					},{	
+						"Clogs":[{},{},{}]
+					}]//Sandals & Flip-Flops object ends
+				},//shoes object ends
+
+				"Watches":{
+					"Smartwatches":[{
+						//first smart watch object details
+					},{
+						//second smart watch object details
+					},{
+						//third smart watch object details
+					}],//smartwatches array ends
+
+					"LeatherStrap":[{
+						//first LeatherStrap object details
+					},{
+						//second LeatherStrap object details
+					},{
+						//third LeatherStrap object details
+					}],//Leatherstrap array ends
+
+					"MetalStrap":[{
+						//first MetalStrap object details
+					},{
+						//second MetalStrap object details
+					},{
+						//third MetalStrap object details
+					}],//Metalstrap array ends
+
+					"Digital Watches":[{
+						//first Digital Watches object details
+					},{
+						//second Digital Watches object details
+					},{
+						//third Digital Watches object details
+					}]//Digital Watches array ends
+				},//watches object ends
+
+				"Bags & Luggages":[{
+					"Bagpacks":[{},{},{}]//Array containing Several bagpack objects
+				},{	
+					"SuitCasas":[{},{},{}],//Array containing Several Suitcase objects
+				},{	
+					"Duffle Bags":[{},{},{}],//Array containing Several Duffle Bags objects
+				},{	
+					"Men's Wallet":[{},{},{}],//Array containing Several Men's Wallet objects
+				},{	
+					"Travel Accessories":[{},{},{}],//Array containing Several Travel Accessories objects
+				},{	
+					"RuckSacks":[{},{},{}]//Array containing Several Rucksacks objects
+				}]//Bags & Luggages object ends
+			},//Men's Fashion object ends		
+			"Women's Fashion":{
+				"Clothing":{
+					"Western Wear":[{
+					    "Tops,Tees & T-shirts":[{},{},{}],
+					},{
+						"Dresses":[{},{},{}],
+					},{
+						"Jeans & Laggings":[{},{},{}],
+					},{
+						"Trousers, Capris":[{},{},{}]
+					}],// Western Wear array ends,
+					"Ethnic Wear":[{
+					    "Kurtas & Kurtis":[{},{},{}],
+					},{
+						"Salwar Suits":[{},{},{}],
+					},{
+						"Sarees":[{},{},{}],
+					}],// Ethnic Wear array ends,
+				   "Sports & Active Wear":[{
+					    "Sports T-shirts":[{},{},{}],  
+					},{
+						"Sports Shorts":[{},{},{}],
+					},{
+						"Track Pants":[{},{},{}],
+					},{
+						"Tights":[{},{},{}]
+					}],// Sports & Active Wear array ends,
+					"Lingerie & SleepWear":[{
+					    "Bras":[{},{},{}],  
+					},{
+						"Panties & Briefs":[{},{},{}],
+					},{
+						"Nightwear":[{},{},{}],
+					},{
+						"Lingere Store":[{},{},{}]
+					}]// Innerwear & SleepWear array ends,
+				},//Clothing object ends
+				"Shoes":[{
+					"Fashion Footwear":[{
+						"Sneakers":[{},{},{}]
+					},{	
+						"Sandals":[{},{},{}]
+					},{	
+						"Hills":[{},{},{}]
+					},{	
+						"Pumps":[{},{},{}]
+					}],//Fashion Shoes array of object ends
+					"Sports Shoes":[{
+						"Running Shoes":[{},{},{}]
+					},{	
+						"Football Shoes":[{},{},{}]
+					},{	
+						"Training Shoes":[{},{},{}]
+					},{
+						"Cricket Shoes":[{},{},{}]
+					}],//Sports Shoes array of object ends
+					"Casual Shoes":[{
+						"Sneakers":[{},{},{}]
+					},{
+						"Loafers":[{},{},{}]
+					},{
+						"Slip-on":[{},{},{}]
+					},{
+						"Shop All":[{},{},{}]
+					}],//Casual Shoes array of object ends
+					"Sandals & Flip-Flops":[{
+						"Sandals & Floaters":[{},{},{}]
+					},{
+						"Flip-Flops":[{},{},{}]
+					},{
+						"Thong Sandals":[{},{},{}]
+					},{
+						"Clogs":[{},{},{}]
+					}]//Sandals & Flip-Flops array ofobject ends
+				}],//shoes array of object ends
+
+				"Watches":{
+					"Smartwatches":[{
+						//first smart watch object details
+					},{
+						//second smart watch object details
+					},{
+						//third smart watch object details
+					}],//smartwatches array ends
+
+					"LeatherStrap":[{
+						//first LeatherStrap object details
+					},{
+						//second LeatherStrap object details
+					},{
+						//third LeatherStrap object details
+					}],//Leatherstrap array ends
+
+					"MetalStrap":[{
+						//first MetalStrap object details
+					},{
+						//second MetalStrap object details
+					},{
+						//third MetalStrap object details
+					}],//Metalstrap array ends
+
+					"Digital Watches":[{
+						//first Digital Watches object details
+					},{
+						//second Digital Watches object details
+					},{
+						//third Digital Watches object details
+					}]//Digital Watches array ends
+				},//watches object ends
+
+				"Handbags & Clutches":[{
+					"HANDBAGS":[{},{},{}]//Array containing Several handbags objects
+				},{
+					"Slings":[{},{},{}]//Array containing Several slings objects
+				},{
+					"Totes":[{},{},{}]//Array containing Several totes objects
+				},{
+					"Woen's Wallet":[{},{},{}]//Array containing Several Woen's Wallet objects
+				},{
+					"Clutches":[{},{},{}]//Array containing Several Clutches objects
+				},{
+					"Satchel":[{},{},{}]//Array containing Several Satchel objects
+				}]//Handbags & Clutches array of object ends
+			},//Women's Clothing Object ends
+
+			"Home, Kitchen & Pets":{
+				"Kitchen & Dinning":[{},{},{},{}], //Several kitvhen and dinning products
+				"Furniture":[{
+					"Sofas":[{},{},{}]
+				},{
+					"Center Tables":[{},{},{}]
+				},{
+					"TV Units":[{},{},{},{}]
+				},{
+					"Mattresses":[{},{},{}]
+				},{
+					"Beds":[{},{},{}]
+				},{
+					"Wardrobes":[{},{},{},{}]
+				},{
+					"Dining Set":[{},{},{}]
+				},{
+					"Bar Stools":[{},{},{}]
+				},{
+					"Shoe racks":[{},{},{}]
+				},{
+					"Cabinets":[{},{},{},{}]
+				},{
+					"Shelves":[{},{},{}]
+				}],//furniture array of objects ends
+				"Pets Supplies":[{
+					"Dog's food":[{},{},{}]
+				},{
+					"Cat's Meal":[{},{},{}]
+				},{
+					"Fish's food":[{},{},{}]
+				},{
+					"Accessories":[{},{},{}]
+                }]//pet supplies array of object ends
+            },//Home, Kitchen & Pets object ends
+			"Beauty, Health & Grocery":[{
+				"Beauty & Grooming":[{},{},{}]
+			},{
+				"Luxury Beauty":[{},{},{}]
+			},{
+				"Health and Personal Care":[{},{},{}]
+			},{
+				"HouseHold Care":[{},{},{}]
+			},{
+				"Personal Care Appliances":[{},{},{}]
+			}],// Beauty, Health & Grocery array of  object ends
+			"Sports, Fitness & Luggage":{
+				"Cricket":[{
+					"Bats":[{},{},{}]//several bat objects stored in this array of bats
+				},{
+					"Balls":[{},{},{}]
+				},{
+					"Wickets":[{},{},{}]
+				},{
+					"Clothing":[{},{},{}]
+				},{
+					"Protective Gears":[{},{},{}]
+			    },{		
+					"Accesories & Kit":[{},{},{}]
+				}],//cricket array of object ends
+				"Badminton":[{
+					"Racquets":[{},{},{}]
+				},{
+					"Shuuttkecocks":[{},{},{}]
+				},{
+					"Complete Set":[{},{},{}]
+				},{
+					"Nets":[{},{},{}]
+				},{
+					"Shoes":[{},{},{}]
+				},{
+					"Accesories & Kit":[{},{},{}]
+				}],//Badminton array of object ends
+				"Football":[{
+					"FootBalls":[{},{},{}]
+				},{
+					"Foot Wear":[{},{},{}]
+				},{
+					"Shin Guards":[{},{},{}]
+				},{
+					"Air pumps & Accessible":[{},{},{}]
+				},{
+					"Bags":[{},{},{}]
+				}]//Football array ofobject ends
+			}, // Sports, Fitness & Luggage object ends
+			"Toys, Baby Products, Kid's Fashion":[{
+				"All Toys & Games":[{},{},{}]
+			},{
+				"All Baby Products":[{},{},{}]
+			},{
+                "Diapers wipers & more":[{},{},{}]
+            }]//Toys, Baby Products, Kid's Fashion object ends
+		}//product data object ends		
+	}//root_AmazonDataStore_Object ends
+}//main Object ends
+	
